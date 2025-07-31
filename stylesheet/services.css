@@ -1,0 +1,6 @@
+#Services {
+    background-color: var(--gray-600);
+    min-height: 100vh;
+    position: relative;
+}
+

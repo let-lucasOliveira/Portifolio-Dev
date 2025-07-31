@@ -1,0 +1,5 @@
+#Projects {
+    background-color: var(--gray-500);
+    min-height: 100vh;
+    position: relative;
+}
